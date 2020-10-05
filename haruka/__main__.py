@@ -39,8 +39,8 @@ Wa
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
-"""join support group (http://t.me/mariesupport1
+ Add me to a group by clicking [here](http://t.me/missmarierobo_bot?startgrop=true).
+join group support [here] (http://t.me/mariesupport1
 
 
 IMPORTED = {}
